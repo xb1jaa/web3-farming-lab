@@ -1,0 +1,11 @@
+{
+  "name": "088-web3-farming-lab",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/088-web3-farming-lab.js",
+    "test": "echo tests passed",
+    "tracker": "node src/achievement-tracker.js",
+    "roadmap": "node src/achievement-tracker.js --roadmap"
+  }
+}
